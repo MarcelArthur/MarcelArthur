@@ -1,4 +1,4 @@
-### Hi there 👋，I am Tartaglia, interested in distributed systems and rule engine storage.
+### Hi there 👋，I am Tartaglia，interested in distributed systems and rule engine storage.
 
 #### Project
 
